@@ -1,0 +1,38 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #fcfeff;
+}
+
+h1 {
+  font-style: italic;
+  color: #007ebd;
+}
+
+h2 {
+  margin-top: 2em;
+  color: #00034f;
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+
+.answer-choice img {
+  height: 10em;
+  width: 15em;
+}
+
+.answer-choice {
+  margin: 10px;
+  border: 10px;
+  padding-left: 50px;
+}
+
+.button {
+  text-align: center;
+  color: #00034f;
+}
